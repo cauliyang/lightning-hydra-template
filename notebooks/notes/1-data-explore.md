@@ -10,7 +10,7 @@
 - Download data
 
   - [x] Download sv cell lines rna seq using `pybox`
-  - [ ] Split fq files using `boss-fqsp`
+  - [x] Split fq files using `boss-fqsp`
 
 - Explore Result of arriba
 
